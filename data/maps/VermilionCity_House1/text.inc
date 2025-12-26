@@ -1,34 +1,37 @@
-VermilionCity_House1_Text_ImFishingGuruDoYouLikeToFish::
-    .string "I'm the FISHING GURU!\p"
-    .string "I simply looove fishing!\n"
-    .string "I can't bear to go without.\p"
-    .string "Tell me, do you like to fish?$"
+VermilionCity_Fisherman_Text_ImFishingGuruDoYouLikeToFish::
+    .string "Ich bin ein ANGLER!\p"
+    .string "Am liebsten angle ich\n"
+    .string "hier am Fluss von ORANIA.\p"
+    .string "Das ruhige Wasser und\n"
+    .string "die Strömung sind perfekt.\p"
+    .string "Sag, angelst du auch gern?$"
 
-VermilionCity_House1_Text_TakeThisAndFish::
-    .string "Grand! I like your style.\n"
-    .string "I think we can be friends.\p"
-    .string "Take this and fish, young friend!$"
+VermilionCity_Fisherman_Text_TakeThisAndFish::
+    .string "Ha! Das höre ich gern.\n"
+    .string "Du hast den richtigen Geist.\p"
+    .string "Hier, nimm diese Angel\n"
+    .string "und versuch dein Glück!$"
 
-VermilionCity_House1_Text_ReceivedOldRodFromFishingGuru::
-    .string "{PLAYER} received an OLD ROD from\n"
-    .string "the FISHING GURU.$"
+VermilionCity_Fisherman_Text_ReceivedGoodRodFromFishingGuru::
+    .string "{PLAYER} erhielt die\n"
+    .string "GUTE ANGEL vom Angler!$"
 
-VermilionCity_House1_Text_FishingIsAWayOfLife::
-    .string "Fishing is a way of life!\n"
-    .string "It is like the finest poetry.\p"
-    .string "From the seas to rivers, go out\n"
-    .string "and land the big one, my friend.$"
+VermilionCity_Fisherman_Text_FishingIsAWayOfLife::
+    .string "Flussangeln braucht Geduld\n"
+    .string "und ein gutes Gespür.\p"
+    .string "Mit der richtigen Angel\n"
+    .string "wartet immer ein Fang.\p"
+    .string "Viel Erfolg am Wasser!$"
 
-VermilionCity_House1_Text_OhThatsSoDisappointing::
-    .string "Oh…\n"
-    .string "That's so disappointing…$"
+VermilionCity_Fisherman_Text_OhThatsSoDisappointing::
+    .string "Oh...\n"
+    .string "Das ist wirklich schade...$"
 
-VermilionCity_House1_Text_HowAreTheFishBiting::
-    .string "Hello there, {PLAYER}!\p"
-    .string "How are the fish biting?$"
+VermilionCity_Fisherman_Text_HowAreTheFishBiting::
+    .string "Hey, {PLAYER}!\p"
+    .string "Wie läuft das Angeln?$"
 
-VermilionCity_House1_Text_NoRoomForNiceGift::
-    .string "Oh, no!\p"
-    .string "I had a nice gift for you, but you\n"
-    .string "have no room for it!$"
-
+VermilionCity_Fisherman_Text_NoRoomForNiceGift::
+    .string "Oh nein!\p"
+    .string "Dein BEUTEL ist voll.\n"
+    .string "Komm später wieder!$"
