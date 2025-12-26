@@ -1,32 +1,25 @@
 FuchsiaCity_House2_MapScripts::
 	.byte 0
 
-FuchsiaCity_House2_EventScript_FishingGurusBrother::
+FuchsiaCity_House2_EventScript_Attendant::
 	lock
 	faceplayer
-	goto_if_set FLAG_GOT_GOOD_ROD, FuchsiaCity_House2_EventScript_AlreadyGotGoodRod
-	msgbox FuchsiaCity_House2_Text_DoYouLikeToFish, MSGBOX_YESNO
-	goto_if_eq VAR_RESULT, YES, FuchsiaCity_House2_EventScript_GiveGoodRod
-	msgbox FuchsiaCity_House2_Text_OhThatsDisappointing
+	goto_if_set FLAG_GOT_HM03, FuchsiaCity_House2_EventScript_ExplainSurf
+	msgbox FuchsiaCity_House2_Text_CongratsYouveWon
+	checkitemspace ITEM_HM03
+	goto_if_eq VAR_RESULT, FALSE, FuchsiaCity_House2_EventScript_NoRoomForHM03
+	giveitem_msg FuchsiaCity_House2_Text_ReceivedHM03FromAttendant, ITEM_HM03
+	msgbox FuchsiaCity_House2_Text_ExplainSurf
+	setflag FLAG_GOT_HM03
 	release
 	end
 
-FuchsiaCity_House2_EventScript_AlreadyGotGoodRod::
-	msgbox FuchsiaCity_House2_Text_HowAreTheFishBiting
+FuchsiaCity_House2_EventScript_NoRoomForHM03::
+	msgbox FuchsiaCity_House2_Text_DontHaveRoomForPrize
 	release
 	end
 
-FuchsiaCity_House2_EventScript_GiveGoodRod::
-	msgbox FuchsiaCity_House2_Text_LikeYourStyleTakeThis
-	checkitemspace ITEM_GOOD_ROD
-	goto_if_eq VAR_RESULT, FALSE, FuchsiaCity_House2_EventScript_NoRoomForGoodRod
-	giveitem_msg FuchsiaCity_House2_Text_ReceivedGoodRod, ITEM_GOOD_ROD
-	msgbox FuchsiaCity_House2_Text_GoodRodCanCatchBetterMons
-	setflag FLAG_GOT_GOOD_ROD
-	release
-	end
-
-FuchsiaCity_House2_EventScript_NoRoomForGoodRod::
-	msgbox FuchsiaCity_House2_Text_YouHaveNoRoomForGift
+FuchsiaCity_House2_EventScript_ExplainSurf::
+	msgbox FuchsiaCity_House2_Text_ExplainSurf
 	release
 	end

@@ -4380,6 +4380,18 @@
       "blockdata_filepath": "data/layouts/OneIsland_KindleRoad_EmberSpa/map.bin",
       "border_height": 2,
       "border_width": 2
+    },
+    {
+      "id": "LAYOUT_VIRIDIAN_CITY_FISHERMAN",
+      "name": "ViridianCity_Fisherman_Layout",
+      "width": 11,
+      "height": 9,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_GenericBuilding1",
+      "border_filepath": "data/layouts/ViridianCity_Fisherman/border.bin",
+      "blockdata_filepath": "data/layouts/ViridianCity_Fisherman/map.bin",
+      "border_height": 2,
+      "border_width": 2
     }
   ]
 }

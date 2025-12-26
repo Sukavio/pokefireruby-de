@@ -7,11 +7,7 @@
   "requires_flash": false,
   "weather": "WEATHER_SUNNY",
   "map_type": "MAP_TYPE_TOWN",
-  "allow_cycling": true,
-  "allow_escaping": false,
-  "allow_running": true,
   "show_map_name": true,
-  "floor_number": 0,
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
   "connections": [
     {
@@ -32,7 +28,6 @@
   ],
   "object_events": [
     {
-      "type": "object",
       "graphics_id": "OBJ_EVENT_GFX_FAT_MAN",
       "x": 8,
       "y": 26,
@@ -46,7 +41,6 @@
       "flag": "0"
     },
     {
-      "type": "object",
       "graphics_id": "OBJ_EVENT_GFX_CUT_TREE",
       "x": 11,
       "y": 24,
@@ -61,7 +55,6 @@
     },
     {
       "local_id": "LOCALID_VIRIDIAN_OLD_MAN",
-      "type": "object",
       "graphics_id": "OBJ_EVENT_GFX_OLD_MAN_1",
       "x": 34,
       "y": 11,
@@ -76,7 +69,6 @@
     },
     {
       "local_id": "LOCALID_TUTORIAL_MAN",
-      "type": "object",
       "graphics_id": "OBJ_EVENT_GFX_VAR_0",
       "x": 21,
       "y": 6,
@@ -91,7 +83,6 @@
     },
     {
       "local_id": "LOCALID_VIRIDIAN_WOMAN",
-      "type": "object",
       "graphics_id": "OBJ_EVENT_GFX_WOMAN_3",
       "x": 20,
       "y": 12,
@@ -105,7 +96,6 @@
       "flag": "0"
     },
     {
-      "type": "object",
       "graphics_id": "OBJ_EVENT_GFX_YOUNGSTER",
       "x": 33,
       "y": 26,
@@ -119,7 +109,6 @@
       "flag": "0"
     },
     {
-      "type": "object",
       "graphics_id": "OBJ_EVENT_GFX_BOY",
       "x": 16,
       "y": 22,
@@ -134,7 +123,6 @@
     },
     {
       "local_id": "LOCALID_VIRIDIAN_BORDER_TREE",
-      "type": "object",
       "graphics_id": "OBJ_EVENT_GFX_CUT_TREE",
       "x": 18,
       "y": 5,
@@ -148,7 +136,6 @@
       "flag": "FLAG_TEMP_12"
     },
     {
-      "type": "object",
       "graphics_id": "OBJ_EVENT_GFX_ITEM_BALL",
       "x": 17,
       "y": 5,
@@ -196,6 +183,13 @@
       "y": 19,
       "elevation": 0,
       "dest_map": "MAP_VIRIDIAN_CITY_MART",
+      "dest_warp_id": "1"
+    },
+    {
+      "x": 27,
+      "y": 6,
+      "elevation": 0,
+      "dest_map": "MAP_VIRIDIAN_CITY_FISHERMAN",
       "dest_warp_id": "1"
     }
   ],
@@ -278,5 +272,9 @@
       "player_facing_dir": "BG_EVENT_PLAYER_FACING_ANY",
       "script": "ViridianCity_EventScript_GymDoor"
     }
-  ]
+  ],
+  "allow_cycling": true,
+  "allow_escaping": false,
+  "allow_running": true,
+  "floor_number": 0
 }

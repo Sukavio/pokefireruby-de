@@ -1,9 +1,9 @@
 {
-  "id": "MAP_FUCHSIA_CITY_HOUSE2",
-  "name": "FuchsiaCity_House2",
-  "layout": "LAYOUT_FUCHSIA_CITY_HOUSE2",
+  "id": "MAP_VIRIDIAN_CITY_FISHERMAN",
+  "name": "ViridianCity_Fisherman",
+  "layout": "LAYOUT_VIRIDIAN_CITY_FISHERMAN",
   "music": "MUS_FUCHSIA",
-  "region_map_section": "MAPSEC_FUCHSIA_CITY",
+  "region_map_section": "MAPSEC_VERMILION_CITY",
   "requires_flash": false,
   "weather": "WEATHER_NONE",
   "map_type": "MAP_TYPE_INDOOR",
@@ -13,46 +13,39 @@
   "object_events": [
     {
       "graphics_id": "OBJ_EVENT_GFX_FISHER",
-      "x": 6,
-      "y": 5,
+      "x": 4,
+      "y": 4,
       "elevation": 3,
-      "movement_type": "MOVEMENT_TYPE_FACE_RIGHT",
+      "movement_type": "MOVEMENT_TYPE_FACE_DOWN",
       "movement_range_x": 1,
       "movement_range_y": 1,
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
-      "script": "FuchsiaCity_House2_EventScript_Attendant",
+      "script": "ViridianCity_Fisherman_EventScript_FishingGuru",
       "flag": "0"
     }
   ],
   "warp_events": [
     {
-      "x": 2,
-      "y": 9,
-      "elevation": 0,
-      "dest_map": "MAP_FUCHSIA_CITY",
-      "dest_warp_id": "7"
-    },
-    {
       "x": 3,
-      "y": 8,
+      "y": 7,
       "elevation": 3,
-      "dest_map": "MAP_FUCHSIA_CITY",
-      "dest_warp_id": "7"
+      "dest_map": "MAP_VIRIDIAN_CITY",
+      "dest_warp_id": "5"
     },
     {
       "x": 4,
-      "y": 9,
-      "elevation": 0,
-      "dest_map": "MAP_FUCHSIA_CITY",
-      "dest_warp_id": "7"
+      "y": 7,
+      "elevation": 3,
+      "dest_map": "MAP_VIRIDIAN_CITY",
+      "dest_warp_id": "5"
     },
     {
-      "x": 3,
-      "y": 1,
+      "x": 5,
+      "y": 7,
       "elevation": 3,
-      "dest_map": "MAP_FUCHSIA_CITY",
-      "dest_warp_id": "8"
+      "dest_map": "MAP_VIRIDIAN_CITY",
+      "dest_warp_id": "5"
     }
   ],
   "coord_events": [],
