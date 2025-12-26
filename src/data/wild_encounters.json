@@ -1069,14 +1069,14 @@
                 "species": "SPECIES_WEEDLE"
               },
               {
-                "min_level": 3,
-                "max_level": 3,
-                "species": "SPECIES_CATERPIE"
+                "min_level": 4,
+                "max_level": 4,
+                "species": "SPECIES_WURMPLE"
               },
               {
-                "min_level": 3,
-                "max_level": 3,
-                "species": "SPECIES_WEEDLE"
+                "min_level": 4,
+                "max_level": 4,
+                "species": "SPECIES_SCATTERBUG"
               },
               {
                 "min_level": 5,
@@ -1089,9 +1089,9 @@
                 "species": "SPECIES_KAKUNA"
               },
               {
-                "min_level": 4,
-                "max_level": 4,
-                "species": "SPECIES_KAKUNA"
+                "min_level": 5,
+                "max_level": 5,
+                "species": "SPECIES_SPEWPA"
               },
               {
                 "min_level": 3,
@@ -1104,9 +1104,64 @@
                 "species": "SPECIES_KAKUNA"
               },
               {
+                "min_level": 6,
+                "max_level": 6,
+                "species": "SPECIES_PIKACHU"
+              }
+            ]
+          },
+          "fishing_mons": {
+            "encounter_rate": 20,
+            "mons": [
+              {
                 "min_level": 5,
                 "max_level": 5,
-                "species": "SPECIES_PIKACHU"
+                "species": "SPECIES_YANMA"
+              },
+              {
+                "min_level": 5,
+                "max_level": 5,
+                "species": "SPECIES_SURSKIT"
+              },
+              {
+                "min_level": 20,
+                "max_level": 20,
+                "species": "SPECIES_LOMBRE"
+              },
+              {
+                "min_level": 20,
+                "max_level": 20,
+                "species": "SPECIES_MASQUERAIN"
+              },
+              {
+                "min_level": 20,
+                "max_level": 20,
+                "species": "SPECIES_MUDKIP"
+              },
+              {
+                "min_level": 25,
+                "max_level": 25,
+                "species": "SPECIES_MASQUERAIN"
+              },
+              {
+                "min_level": 25,
+                "max_level": 25,
+                "species": "SPECIES_MARSHTOMP"
+              },
+              {
+                "min_level": 30,
+                "max_level": 30,
+                "species": "SPECIES_LUDICOLO"
+              },
+              {
+                "min_level": 36,
+                "max_level": 36,
+                "species": "SPECIES_YANMEGA"
+              },
+              {
+                "min_level": 36,
+                "max_level": 36,
+                "species": "SPECIES_SWAMPERT"
               }
             ]
           }
@@ -1176,6 +1231,144 @@
                 "min_level": 5,
                 "max_level": 5,
                 "species": "SPECIES_PIKACHU"
+              }
+            ]
+          }
+        },
+        {
+          "map": "MAP_VIRIDIAN_FOREST",
+          "base_label": "sViridianForest_FireRed_Night",
+          "land_mons": {
+            "encounter_rate": 14,
+            "mons": [
+              {
+                "min_level": 4,
+                "max_level": 4,
+                "species": "SPECIES_SPINARAK"
+              },
+              {
+                "min_level": 4,
+                "max_level": 4,
+                "species": "SPECIES_VENONAT"
+              },
+              {
+                "min_level": 5,
+                "max_level": 5,
+                "species": "SPECIES_SPINARAK"
+              },
+              {
+                "min_level": 5,
+                "max_level": 5,
+                "species": "SPECIES_VENONAT"
+              },
+              {
+                "min_level": 4,
+                "max_level": 4,
+                "species": "SPECIES_SPINARAK"
+              },
+              {
+                "min_level": 4,
+                "max_level": 4,
+                "species": "SPECIES_VENONAT"
+              },
+              {
+                "min_level": 5,
+                "max_level": 5,
+                "species": "SPECIES_JOLTIK"
+              },
+              {
+                "min_level": 5,
+                "max_level": 5,
+                "species": "SPECIES_NINCADA"
+              },
+              {
+                "min_level": 4,
+                "max_level": 4,
+                "species": "SPECIES_CASCOON"
+              },
+              {
+                "min_level": 4,
+                "max_level": 4,
+                "species": "SPECIES_PIKACHU"
+              },
+              {
+                "min_level": 6,
+                "max_level": 6,
+                "species": "SPECIES_CASCOON"
+              },
+              {
+                "min_level": 6,
+                "max_level": 6,
+                "species": "SPECIES_VOLBEAT"
+              }
+            ]
+          }
+        },
+        {
+          "map": "MAP_VIRIDIAN_FOREST",
+          "base_label": "sViridianForest_Morning",
+          "land_mons": {
+            "encounter_rate": 14,
+            "mons": [
+              {
+                "min_level": 4,
+                "max_level": 4,
+                "species": "SPECIES_WURMPLE"
+              },
+              {
+                "min_level": 4,
+                "max_level": 4,
+                "species": "SPECIES_WEEDLE"
+              },
+              {
+                "min_level": 5,
+                "max_level": 5,
+                "species": "SPECIES_CATERPIE"
+              },
+              {
+                "min_level": 5,
+                "max_level": 5,
+                "species": "SPECIES_WEEDLE"
+              },
+              {
+                "min_level": 4,
+                "max_level": 4,
+                "species": "SPECIES_LEDYBA"
+              },
+              {
+                "min_level": 4,
+                "max_level": 4,
+                "species": "SPECIES_SCATTERBUG"
+              },
+              {
+                "min_level": 5,
+                "max_level": 5,
+                "species": "SPECIES_SEWADDLE"
+              },
+              {
+                "min_level": 5,
+                "max_level": 5,
+                "species": "SPECIES_SILCOON"
+              },
+              {
+                "min_level": 5,
+                "max_level": 5,
+                "species": "SPECIES_SPEWPA"
+              },
+              {
+                "min_level": 3,
+                "max_level": 3,
+                "species": "SPECIES_PIKACHU"
+              },
+              {
+                "min_level": 6,
+                "max_level": 6,
+                "species": "SPECIES_SILCOON"
+              },
+              {
+                "min_level": 6,
+                "max_level": 6,
+                "species": "SPECIES_ILLUMISE"
               }
             ]
           }
@@ -16494,8 +16687,8 @@
                 "species": "SPECIES_PIDGEY"
               },
               {
-                "min_level": 4,
-                "max_level": 4,
+                "min_level": 5,
+                "max_level": 5,
                 "species": "SPECIES_RATTATA"
               }
             ]
@@ -16572,7 +16765,7 @@
         },
         {
           "map": "MAP_ROUTE1",
-          "base_label": "gRoute1_Night",
+          "base_label": "sRoute1_FireRed_Night",
           "land_mons": {
             "encounter_rate": 21,
             "mons": [
@@ -16632,8 +16825,8 @@
                 "species": "SPECIES_HOOTHOOT"
               },
               {
-                "min_level": 4,
-                "max_level": 4,
+                "min_level": 5,
+                "max_level": 5,
                 "species": "SPECIES_RATTATA_ALOLA"
               }
             ]
