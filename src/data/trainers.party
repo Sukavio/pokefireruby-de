@@ -1394,61 +1394,39 @@ Items: Super Potion / Antidote
 AI: Check Bad Move / Check Viability
 
 Spinner (Spinarak)
-Level: 10
-IVs: 10 HP / 12 Atk / 10 Def / 0 SpA / 8 SpD / 10 Spe
 Ball: Net Ball
-- Poison Sting
-- String Shot
-- Scary Face
-- Bug Bite
+Level: 10
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 Boxer (Ledyba)
-Level: 10
-IVs: 12 HP / 8 Atk / 10 Def / 0 SpA / 10 SpD / 12 Spe
 Ball: Net Ball
-- Comet Punch
-- Supersonic
-- Light Screen
-- Power-Up Punch
+Level: 10
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 Fusel (Venonat)
-Level: 10
-IVs: 12 HP / 10 Atk / 10 Def / 12 SpA / 12 SpD / 10 Spe
 Ball: Net Ball
-- Confusion
-- Supersonic
-- Poison Powder
-- Bug Bite
+Level: 10
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 Moosi (Paras)
-Level: 10
-IVs: 14 HP / 12 Atk / 12 Def / 0 SpA / 10 SpD / 6 Spe
 Ball: Net Ball
-- Scratch
-- Stun Spore
-- Leech Life
-- Bullet Seed
+Level: 10
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 Stachi (Pineco)
-Level: 10
-IVs: 14 HP / 10 Atk / 16 Def / 0 SpA / 10 SpD / 4 Spe
 Ball: Net Ball
-- Tackle
-- Harden
-- Protect
-- Cut
+Level: 10
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
-Jet (Yanma)
+Blütenstaub (Butterfree)
+Ball: Net Ball
 Level: 11
 Shiny: Yes
-IVs: 18 HP / 14 Atk / 12 Def / 14 SpA / 12 SpD / 18 Spe
-EVs: 0 HP / 40 Atk / 0 Def / 40 SpA / 0 SpD / 40 Spe
-Ball: Net Ball
-- Sonic Boom
-- Supersonic
-- Quick Attack
-- Ancient Power
-
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
+- Tailwind
+- Sleep Powder
+- Gust
+- Confusion
 
 === TRAINER_BUG_CATCHER_DOUG ===
 Name: DOUG
@@ -1462,59 +1440,35 @@ AI: Check Bad Move / Check Viability
 
 Tanky (Pineco)
 Ball: NET BALL
-Level: 10
-IVs: 14 HP / 10 Atk / 16 Def / 0 SpA / 10 SpD / 4 Spe
-- Tackle
-- Harden
-- Protect
-- Cut
+Level: 11
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 Webby (Spinarak)
 Ball: NET BALL
-Level: 10
-IVs: 12 HP / 14 Atk / 12 Def / 0 SpA / 10 SpD / 10 Spe
-- Poison Sting
-- String Shot
-- Scary Face
-- Night Shade
+Level: 11
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 Dusty (Venonat)
 Ball: NET BALL
-Level: 10
-IVs: 14 HP / 10 Atk / 12 Def / 14 SpA / 12 SpD / 10 Spe
-- Confusion
-- Poison Powder
-- Supersonic
-- Stun Spore
+Level: 11
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 Shield (Ledian)
 Ball: NET BALL
-Level: 10
-IVs: 14 HP / 10 Atk / 14 Def / 0 SpA / 14 SpD / 14 Spe
-- Mach Punch
-- Light Screen
-- Reflect
-- Supersonic
+Level: 11
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 Clampy (Paras)
 Ball: NET BALL
-Level: 10
-IVs: 16 HP / 14 Atk / 14 Def / 0 SpA / 12 SpD / 6 Spe
-- Scratch
-- Leech Life
-- Stun Spore
-- Spore
+Level: 11
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 Stinger (Beedrill)
 Ball: NET BALL
-Level: 11
+Ability: Sniper
+Level: 12
 Shiny: Yes
-IVs: 18 HP / 18 Atk / 10 Def / 0 SpA / 12 SpD / 16 Spe
-EVs: 0 HP / 40 Atk / 0 Def / 0 SpA / 0 SpD / 40 Spe
-- Twineedle
-- Fury Attack
-- Focus Energy
-- Rage
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 === TRAINER_BUG_CATCHER_ANTHONY ===
 Name: ANTHONY
@@ -1527,54 +1481,38 @@ Items: Super Potion / Antidote
 AI: Try To Faint / Check Viability
 
 Sparky (Joltik)
-Level: 10
-IVs: 12 HP / 14 Atk / 10 Def / 14 SpA / 10 SpD / 14 Spe
-- Thunder Wave
-- Spark
-- Quick Attack
-- Bite
+Ball: NET BALL
+Level: 12
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 Fuzzy (Venonat)
-Level: 11
-IVs: 12 HP / 10 Atk / 10 Def / 12 SpA / 12 SpD / 10 Spe
-- Confusion
-- Poison Powder
-- Supersonic
-- Stun Spore
+Ball: NET BALL
+Level: 12
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 Winged (Butterfree) @ SilverPowder
-Level: 11
-IVs: 10 HP / 0 Atk / 10 Def / 14 SpA / 12 SpD / 14 Spe
-- Confusion
-- Sleep Powder
-- Gust
+Ball: NET BALL
+Level: 12
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
+- Tailwind
 - Stun Spore
+- Bug Bite
+- Supersonic
 
 Shroomy (Paras)
-Level: 11
-IVs: 16 HP / 14 Atk / 14 Def / 0 SpA / 14 SpD / 6 Spe
-- Spore
-- Leech Life
-- Stun Spore
-- Scratch
+Ball: NET BALL
+Level: 12
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 Blades (Scyther)
-Level: 11
-IVs: 14 HP / 16 Atk / 12 Def / 0 SpA / 10 SpD / 14 Spe
-- Fury Cutter
-- Quick Attack
-- Double-Edge
-- Cut
+Level: 12
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 Stingy (Spinarak)
-Level: 12
+Ball: NET BALL
+Level: 13
 Shiny: Yes
-IVs: 18 HP / 18 Atk / 14 Def / 0 SpA / 14 SpD / 16 Spe
-EVs: 0 HP / 40 Atk / 0 Def / 40 SpA / 0 SpD / 40 Spe
-- Poison Sting
-- Night Shade
-- Focus Energy
-- Twineedle
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 === TRAINER_BUG_CATCHER_CHARLIE ===
 Name: CHARLIE
@@ -1587,54 +1525,45 @@ Items: Super Potion / Antidote
 AI: Try To Faint / Check Viability
 
 Silky (Butterfree) @ SilverPowder
-Level: 12
-IVs: 14 HP / 0 Atk / 12 Def / 16 SpA / 14 SpD / 14 Spe
-- Sleep Powder
-- Confusion
+Ball: NET BALL
+Level: 13
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
+- Tailwind
 - Stun Spore
-- Gust
+- Bug Bite
+- Supersonic
 
 Webby (Spinarak)
-Level: 12
-IVs: 14 HP / 16 Atk / 12 Def / 0 SpA / 12 SpD / 14 Spe
-- Poison Sting
-- Night Shade
-- String Shot
-- Focus Energy
+Ball: NET BALL
+Level: 13
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 Shroomer (Paras)
-Level: 12
-IVs: 16 HP / 14 Atk / 14 Def / 0 SpA / 14 SpD / 8 Spe
-- Spore
-- Leech Life
-- Stun Spore
-- Scratch
+Ball: NET BALL
+Level: 13
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 Stingwing (Scyther)
-Level: 12
-IVs: 14 HP / 18 Atk / 12 Def / 0 SpA / 12 SpD / 16 Spe
-- Fury Cutter
-- Quick Attack
-- Double-Edge
-- Cut
+Ball: NET BALL
+Level: 13
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 Volt (Volbeat)
-Level: 12
-IVs: 12 HP / 12 Atk / 10 Def / 12 SpA / 12 SpD / 12 Spe
-- Signal Beam
-- Supersonic
-- Confuse Ray
-- Helping Hand
+Ball: NET BALL
+Level: 13
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 Buzzkill (Beedrill)
-Level: 13
+Ball: NET BALL
+Ability: Sniper
+Level: 14
 Shiny: Yes
-IVs: 20 HP / 20 Atk / 12 Def / 0 SpA / 14 SpD / 18 Spe
+IVs: 20 HP / 20 Atk / 20 Def / 20 SpA / 20 SpD / 20 Spe
 EVs: 0 HP / 40 Atk / 0 Def / 0 SpA / 0 SpD / 40 Spe
-- Twineedle
-- Fury Attack
-- Focus Energy
-- Cut
+- U Turn
+- Poison Sting
+- Pin Missle
+- Toxic Spikes
 
 === TRAINER_BUG_CATCHER_SAMMY ===
 Name: SAMMY
@@ -1646,56 +1575,45 @@ Double Battle: No
 Items: Hyper Potion / Full Heal
 AI: Try To Faint / Check Viability
 
-Hornet (Heracross)
+Hornet (Butterfree)
 Ball: Net Ball
-Level: 10
-- Megahorn
-- Counter
-- Focus Energy
-- Rock Smash
+Level: 13
+- Tailwind
+- Sleep Powder
+- Gust
+- Confusion
 
-Shroomlord (Paras)
+Shroomlord (Beedrill)
 Ball: Net Ball
 Level: 13
 IVs: 18 HP / 16 Atk / 14 Def / 0 SpA / 16 SpD / 8 Spe
-- Spore
-- Leech Life
-- Stun Spore
-- Slash
+Ability: Sniper
+- U Turn
+- Poison Sting
+- Pin Missle
+- Toxic Spikes
 
 Bladestorm (Scyther)
 Ball: Net Ball
-Level: 12
-- Fury Cutter
-- Quick Attack
-- Double-Edge
-- Cut
+Level: 13
 
 Lumina (Volbeat)
 Ball: Net Ball
 Level: 13
 IVs: 14 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 14 Spe
-- Signal Beam
-- Supersonic
-- Confuse Ray
-- Helping Hand
 
-Spiker (Pinsir)
+Spiker (Pinsir) 
 Ball: Net Ball
-Level: 12
-- Vice Grip
-- Seismic Toss
-- Focus Energy
-- Cut
+Level: 13
 
 Nightwing (Venomoth)
 Ball: Net Ball
 Level: 14
 Shiny: Yes
-- Psychic
 - Sleep Powder
-- Venoshock
+- Leech Life
 - Quiver Dance
+- Psybeam
 
 === TRAINER_BUG_CATCHER_COLTON ===
 Name: COLTON
@@ -1707,14 +1625,17 @@ Double Battle: No
 AI: Check Bad Move
 
 Caterpie
+Ball: NET BALL
 Level: 10
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Weedle
+Ball: NET BALL
 Level: 10
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Caterpie
+Ball: NET BALL
 Level: 10
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
