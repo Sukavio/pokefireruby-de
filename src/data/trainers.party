@@ -1393,7 +1393,7 @@ Double Battle: No
 Items: Super Potion / Antidote
 AI: Check Bad Move / Check Viability
 
-Spinner (Spinarak) @ Pecha Berry
+Spinner (Spinarak)
 Level: 10
 IVs: 10 HP / 12 Atk / 10 Def / 0 SpA / 8 SpD / 10 Spe
 Ball: Net Ball
@@ -1402,7 +1402,7 @@ Ball: Net Ball
 - Scary Face
 - Bug Bite
 
-Boxer (Ledyba) @ Oran Berry
+Boxer (Ledyba)
 Level: 10
 IVs: 12 HP / 8 Atk / 10 Def / 0 SpA / 10 SpD / 12 Spe
 Ball: Net Ball
@@ -1411,7 +1411,7 @@ Ball: Net Ball
 - Light Screen
 - Power-Up Punch
 
-Fusel (Venonat) @ Pecha Berry
+Fusel (Venonat)
 Level: 10
 IVs: 12 HP / 10 Atk / 10 Def / 12 SpA / 12 SpD / 10 Spe
 Ball: Net Ball
@@ -1420,7 +1420,7 @@ Ball: Net Ball
 - Poison Powder
 - Bug Bite
 
-Moosi (Paras) @ Oran Berry
+Moosi (Paras)
 Level: 10
 IVs: 14 HP / 12 Atk / 12 Def / 0 SpA / 10 SpD / 6 Spe
 Ball: Net Ball
@@ -1429,7 +1429,7 @@ Ball: Net Ball
 - Leech Life
 - Bullet Seed
 
-Stachi (Pineco) @ Oran Berry
+Stachi (Pineco)
 Level: 10
 IVs: 14 HP / 10 Atk / 16 Def / 0 SpA / 10 SpD / 4 Spe
 Ball: Net Ball
@@ -1438,7 +1438,7 @@ Ball: Net Ball
 - Protect
 - Cut
 
-Jet (Yanma) @ Oran Berry
+Jet (Yanma)
 Level: 11
 Shiny: Yes
 IVs: 18 HP / 14 Atk / 12 Def / 14 SpA / 12 SpD / 18 Spe
@@ -1460,7 +1460,7 @@ Double Battle: No
 Items: Super Potion
 AI: Check Bad Move / Check Viability
 
-Tanky (Pineco) @ Oran Berry
+Tanky (Pineco)
 Ball: NET BALL
 Level: 10
 IVs: 14 HP / 10 Atk / 16 Def / 0 SpA / 10 SpD / 4 Spe
@@ -1469,7 +1469,7 @@ IVs: 14 HP / 10 Atk / 16 Def / 0 SpA / 10 SpD / 4 Spe
 - Protect
 - Cut
 
-Webby (Spinarak) @ Pecha Berry
+Webby (Spinarak)
 Ball: NET BALL
 Level: 10
 IVs: 12 HP / 14 Atk / 12 Def / 0 SpA / 10 SpD / 10 Spe
@@ -1478,7 +1478,7 @@ IVs: 12 HP / 14 Atk / 12 Def / 0 SpA / 10 SpD / 10 Spe
 - Scary Face
 - Night Shade
 
-Dusty (Venonat) @ Pecha Berry
+Dusty (Venonat)
 Ball: NET BALL
 Level: 10
 IVs: 14 HP / 10 Atk / 12 Def / 14 SpA / 12 SpD / 10 Spe
@@ -1487,7 +1487,7 @@ IVs: 14 HP / 10 Atk / 12 Def / 14 SpA / 12 SpD / 10 Spe
 - Supersonic
 - Stun Spore
 
-Shield (Ledian) @ Oran Berry
+Shield (Ledian)
 Ball: NET BALL
 Level: 10
 IVs: 14 HP / 10 Atk / 14 Def / 0 SpA / 14 SpD / 14 Spe
@@ -1496,7 +1496,7 @@ IVs: 14 HP / 10 Atk / 14 Def / 0 SpA / 14 SpD / 14 Spe
 - Reflect
 - Supersonic
 
-Clampy (Paras) @ Oran Berry
+Clampy (Paras)
 Ball: NET BALL
 Level: 10
 IVs: 16 HP / 14 Atk / 14 Def / 0 SpA / 12 SpD / 6 Spe
@@ -1505,7 +1505,7 @@ IVs: 16 HP / 14 Atk / 14 Def / 0 SpA / 12 SpD / 6 Spe
 - Stun Spore
 - Spore
 
-Stinger (Beedrill) @ Oran Berry
+Stinger (Beedrill)
 Ball: NET BALL
 Level: 11
 Shiny: Yes
@@ -1526,7 +1526,7 @@ Double Battle: No
 Items: Super Potion / Antidote
 AI: Try To Faint / Check Viability
 
-Sparky (Galvantula) @ Oran Berry
+Sparky (Joltik)
 Level: 10
 IVs: 12 HP / 14 Atk / 10 Def / 14 SpA / 10 SpD / 14 Spe
 - Thunder Wave
@@ -1534,7 +1534,7 @@ IVs: 12 HP / 14 Atk / 10 Def / 14 SpA / 10 SpD / 14 Spe
 - Quick Attack
 - Bite
 
-Fuzzy (Venonat) @ Pecha Berry
+Fuzzy (Venonat)
 Level: 11
 IVs: 12 HP / 10 Atk / 10 Def / 12 SpA / 12 SpD / 10 Spe
 - Confusion
@@ -1550,7 +1550,7 @@ IVs: 10 HP / 0 Atk / 10 Def / 14 SpA / 12 SpD / 14 Spe
 - Gust
 - Stun Spore
 
-Shroomy (Parasect) @ Sitrus Berry
+Shroomy (Paras)
 Level: 11
 IVs: 16 HP / 14 Atk / 14 Def / 0 SpA / 14 SpD / 6 Spe
 - Spore
@@ -1558,7 +1558,7 @@ IVs: 16 HP / 14 Atk / 14 Def / 0 SpA / 14 SpD / 6 Spe
 - Stun Spore
 - Scratch
 
-Blades (Scyther) @ Oran Berry
+Blades (Scyther)
 Level: 11
 IVs: 14 HP / 16 Atk / 12 Def / 0 SpA / 10 SpD / 14 Spe
 - Fury Cutter
@@ -1566,7 +1566,7 @@ IVs: 14 HP / 16 Atk / 12 Def / 0 SpA / 10 SpD / 14 Spe
 - Double-Edge
 - Cut
 
-Stingy (Ariados) @ Black Sludge
+Stingy (Spinarak)
 Level: 12
 Shiny: Yes
 IVs: 18 HP / 18 Atk / 14 Def / 0 SpA / 14 SpD / 16 Spe
@@ -1594,7 +1594,7 @@ IVs: 14 HP / 0 Atk / 12 Def / 16 SpA / 14 SpD / 14 Spe
 - Stun Spore
 - Gust
 
-Webby (Ariados) @ Pecha Berry
+Webby (Spinarak)
 Level: 12
 IVs: 14 HP / 16 Atk / 12 Def / 0 SpA / 12 SpD / 14 Spe
 - Poison Sting
@@ -1602,7 +1602,7 @@ IVs: 14 HP / 16 Atk / 12 Def / 0 SpA / 12 SpD / 14 Spe
 - String Shot
 - Focus Energy
 
-Shroomer (Parasect) @ Sitrus Berry
+Shroomer (Paras)
 Level: 12
 IVs: 16 HP / 14 Atk / 14 Def / 0 SpA / 14 SpD / 8 Spe
 - Spore
@@ -1610,7 +1610,7 @@ IVs: 16 HP / 14 Atk / 14 Def / 0 SpA / 14 SpD / 8 Spe
 - Stun Spore
 - Scratch
 
-Stingwing (Scyther) @ Oran Berry
+Stingwing (Scyther)
 Level: 12
 IVs: 14 HP / 18 Atk / 12 Def / 0 SpA / 12 SpD / 16 Spe
 - Fury Cutter
@@ -1618,7 +1618,7 @@ IVs: 14 HP / 18 Atk / 12 Def / 0 SpA / 12 SpD / 16 Spe
 - Double-Edge
 - Cut
 
-Volt (Volbeat) @ Pecha Berry
+Volt (Volbeat)
 Level: 12
 IVs: 12 HP / 12 Atk / 10 Def / 12 SpA / 12 SpD / 12 Spe
 - Signal Beam
@@ -1626,7 +1626,7 @@ IVs: 12 HP / 12 Atk / 10 Def / 12 SpA / 12 SpD / 12 Spe
 - Confuse Ray
 - Helping Hand
 
-Buzzkill (Beedrill) @ Black Sludge
+Buzzkill (Beedrill)
 Level: 13
 Shiny: Yes
 IVs: 20 HP / 20 Atk / 12 Def / 0 SpA / 14 SpD / 18 Spe
@@ -1646,16 +1646,15 @@ Double Battle: No
 Items: Hyper Potion / Full Heal
 AI: Try To Faint / Check Viability
 
-Hornet (Heracross) @ Oran Berry
+Hornet (Heracross)
 Ball: Net Ball
-Level: 13
-IVs: 18 HP / 20 Atk / 14 Def / 0 SpA / 14 SpD / 16 Spe
+Level: 10
 - Megahorn
 - Counter
 - Focus Energy
 - Rock Smash
 
-Shroomlord (Parasect) @ Sitrus Berry
+Shroomlord (Paras)
 Ball: Net Ball
 Level: 13
 IVs: 18 HP / 16 Atk / 14 Def / 0 SpA / 16 SpD / 8 Spe
@@ -1664,16 +1663,15 @@ IVs: 18 HP / 16 Atk / 14 Def / 0 SpA / 16 SpD / 8 Spe
 - Stun Spore
 - Slash
 
-Bladestorm (Scyther) @ Oran Berry
+Bladestorm (Scyther)
 Ball: Net Ball
-Level: 13
-IVs: 16 HP / 20 Atk / 14 Def / 0 SpA / 14 SpD / 18 Spe
+Level: 12
 - Fury Cutter
 - Quick Attack
 - Double-Edge
 - Cut
 
-Lumina (Volbeat) @ Pecha Berry
+Lumina (Volbeat)
 Ball: Net Ball
 Level: 13
 IVs: 14 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 14 Spe
@@ -1682,21 +1680,18 @@ IVs: 14 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 14 Spe
 - Confuse Ray
 - Helping Hand
 
-Spiker (Pinsir) @ Oran Berry
+Spiker (Pinsir)
 Ball: Net Ball
-Level: 13
-IVs: 18 HP / 20 Atk / 16 Def / 0 SpA / 14 SpD / 12 Spe
+Level: 12
 - Vice Grip
 - Seismic Toss
 - Focus Energy
 - Cut
 
-Nightwing (Venomoth) @ Black Sludge
+Nightwing (Venomoth)
 Ball: Net Ball
 Level: 14
 Shiny: Yes
-IVs: 20 HP / 14 Atk / 12 Def / 18 SpA / 16 SpD / 20 Spe
-EVs: 0 HP / 40 Atk / 0 Def / 40 SpA / 0 SpD / 40 Spe
 - Psychic
 - Sleep Powder
 - Venoshock
@@ -8798,7 +8793,7 @@ Double Battle: No
 Items: Hyper Potion / Full Heal / Sitrus Berry
 AI: Check Bad Move / Try To Faint / Check Viability
 
-Rocky (Geodude) @ Oran Berry
+Rocky (Geodude)
 Level: 14
 IVs: 16 HP / 14 Atk / 16 Def / 0 SpA / 12 SpD / 10 Spe
 - Tackle
@@ -8806,7 +8801,7 @@ IVs: 16 HP / 14 Atk / 16 Def / 0 SpA / 12 SpD / 10 Spe
 - Defense Curl
 - Sandstorm
 
-Crusty (Kabuto) @ Sitrus Berry
+Crusty (Kabuto)
 Level: 14
 IVs: 16 HP / 14 Atk / 14 Def / 0 SpA / 14 SpD / 10 Spe
 - Rock Tomb
@@ -8814,7 +8809,7 @@ IVs: 16 HP / 14 Atk / 14 Def / 0 SpA / 14 SpD / 10 Spe
 - Protect
 - Harden
 
-Pebble (Rhyhorn) @ Oran Berry
+Pebble (Rhyhorn)
 Level: 14
 IVs: 18 HP / 20 Atk / 16 Def / 0 SpA / 12 SpD / 10 Spe
 - Horn Drill
@@ -8822,7 +8817,7 @@ IVs: 18 HP / 20 Atk / 16 Def / 0 SpA / 12 SpD / 10 Spe
 - Stomp
 - Take Down
 
-Larvy (Larvitar) @ Oran Berry
+Larvy (Larvitar)
 Level: 14
 IVs: 16 HP / 18 Atk / 14 Def / 0 SpA / 12 SpD / 10 Spe
 - Bite
@@ -8830,7 +8825,7 @@ IVs: 16 HP / 18 Atk / 14 Def / 0 SpA / 12 SpD / 10 Spe
 - Leer
 - Sandstorm
 
-Shard (Kabuto) @ Sitrus Berry
+Shard (Kabuto)
 Level: 14
 IVs: 16 HP / 14 Atk / 14 Def / 0 SpA / 14 SpD / 10 Spe
 - Scratch
