@@ -1110,6 +1110,36 @@
               }
             ]
           },
+          "water_mons": {
+            "encounter_rate": 2,
+            "mons": [
+              {
+                "min_level": 25,
+                "max_level": 25,
+                "species": "SPECIES_YANMA"
+              },
+              {
+                "min_level": 25,
+                "max_level": 25,
+                "species": "SPECIES_SURSKIT"
+              },
+              {
+                "min_level": 25,
+                "max_level": 25,
+                "species": "SPECIES_YANMA"
+              },
+              {
+                "min_level": 25,
+                "max_level": 25,
+                "species": "SPECIES_SURSKIT"
+              },
+              {
+                "min_level": 25,
+                "max_level": 25,
+                "species": "SPECIES_YANMA"
+              }
+            ]
+          },
           "fishing_mons": {
             "encounter_rate": 20,
             "mons": [
@@ -1162,36 +1192,6 @@
                 "min_level": 36,
                 "max_level": 36,
                 "species": "SPECIES_SWAMPERT"
-              }
-            ]
-          },
-          "water_mons": {
-            "encounter_rate": 2,
-            "mons": [
-              {
-                "min_level": 25,
-                "max_level": 25,
-                "species": "SPECIES_YANMA"
-              },
-              {
-                "min_level": 25,
-                "max_level": 25,
-                "species": "SPECIES_SURSKIT"
-              },
-              {
-                "min_level": 25,
-                "max_level": 25,
-                "species": "SPECIES_YANMA"
-              },
-              {
-                "min_level": 25,
-                "max_level": 25,
-                "species": "SPECIES_SURSKIT"
-              },
-              {
-                "min_level": 25,
-                "max_level": 25,
-                "species": "SPECIES_YANMA"
               }
             ]
           }
