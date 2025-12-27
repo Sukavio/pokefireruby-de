@@ -1390,15 +1390,65 @@ Pic: Bug Catcher
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+Items: Super Potion / Antidote
+AI: Check Bad Move / Check Viability
 
-Weedle
-Level: 6
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Spinner (Spinarak) @ Pecha Berry
+Level: 10
+IVs: 10 HP / 12 Atk / 10 Def / 0 SpA / 8 SpD / 10 Spe
+Ball: Net Ball
+- Poison Sting
+- String Shot
+- Scary Face
+- Bug Bite
 
-Caterpie
-Level: 6
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Boxer (Ledyba) @ Oran Berry
+Level: 10
+IVs: 12 HP / 8 Atk / 10 Def / 0 SpA / 10 SpD / 12 Spe
+Ball: Net Ball
+- Comet Punch
+- Supersonic
+- Light Screen
+- Power-Up Punch
+
+Fusel (Venonat) @ Pecha Berry
+Level: 10
+IVs: 12 HP / 10 Atk / 10 Def / 12 SpA / 12 SpD / 10 Spe
+Ball: Net Ball
+- Confusion
+- Supersonic
+- Poison Powder
+- Bug Bite
+
+Moosi (Paras) @ Oran Berry
+Level: 10
+IVs: 14 HP / 12 Atk / 12 Def / 0 SpA / 10 SpD / 6 Spe
+Ball: Net Ball
+- Scratch
+- Stun Spore
+- Leech Life
+- Bullet Seed
+
+Stachi (Pineco) @ Oran Berry
+Level: 10
+IVs: 14 HP / 10 Atk / 16 Def / 0 SpA / 10 SpD / 4 Spe
+Ball: Net Ball
+- Tackle
+- Harden
+- Protect
+- Cut
+
+Jet (Yanma) @ Oran Berry
+Level: 11
+Shiny: Yes
+IVs: 18 HP / 14 Atk / 12 Def / 14 SpA / 12 SpD / 18 Spe
+EVs: 0 HP / 40 Atk / 0 Def / 40 SpA / 0 SpD / 40 Spe
+Ball: Net Ball
+- Sonic Boom
+- Supersonic
+- Quick Attack
+- Ancient Power
+
 
 === TRAINER_BUG_CATCHER_DOUG ===
 Name: DOUG
@@ -1407,19 +1457,184 @@ Pic: Bug Catcher
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+Items: Super Potion
+AI: Check Bad Move / Check Viability
 
-Weedle
-Level: 7
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Tanky (Pineco) @ Oran Berry
+Ball: NET BALL
+Level: 10
+IVs: 14 HP / 10 Atk / 16 Def / 0 SpA / 10 SpD / 4 Spe
+- Tackle
+- Harden
+- Protect
+- Cut
 
-Kakuna
-Level: 7
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Webby (Spinarak) @ Pecha Berry
+Ball: NET BALL
+Level: 10
+IVs: 12 HP / 14 Atk / 12 Def / 0 SpA / 10 SpD / 10 Spe
+- Poison Sting
+- String Shot
+- Scary Face
+- Night Shade
 
-Weedle
-Level: 7
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Dusty (Venonat) @ Pecha Berry
+Ball: NET BALL
+Level: 10
+IVs: 14 HP / 10 Atk / 12 Def / 14 SpA / 12 SpD / 10 Spe
+- Confusion
+- Poison Powder
+- Supersonic
+- Stun Spore
+
+Shield (Ledian) @ Oran Berry
+Ball: NET BALL
+Level: 10
+IVs: 14 HP / 10 Atk / 14 Def / 0 SpA / 14 SpD / 14 Spe
+- Mach Punch
+- Light Screen
+- Reflect
+- Supersonic
+
+Clampy (Paras) @ Oran Berry
+Ball: NET BALL
+Level: 10
+IVs: 16 HP / 14 Atk / 14 Def / 0 SpA / 12 SpD / 6 Spe
+- Scratch
+- Leech Life
+- Stun Spore
+- Spore
+
+Stinger (Beedrill) @ Oran Berry
+Ball: NET BALL
+Level: 11
+Shiny: Yes
+IVs: 18 HP / 18 Atk / 10 Def / 0 SpA / 12 SpD / 16 Spe
+EVs: 0 HP / 40 Atk / 0 Def / 0 SpA / 0 SpD / 40 Spe
+- Twineedle
+- Fury Attack
+- Focus Energy
+- Rage
+
+=== TRAINER_BUG_CATCHER_ANTHONY ===
+Name: ANTHONY
+Class: Bug Catcher
+Pic: Bug Catcher
+Gender: Male
+Music: Male
+Double Battle: No
+Items: Super Potion / Antidote
+AI: Try To Faint / Check Viability
+
+Sparky (Galvantula) @ Oran Berry
+Level: 10
+IVs: 12 HP / 14 Atk / 10 Def / 14 SpA / 10 SpD / 14 Spe
+- Thunder Wave
+- Spark
+- Quick Attack
+- Bite
+
+Fuzzy (Venonat) @ Pecha Berry
+Level: 11
+IVs: 12 HP / 10 Atk / 10 Def / 12 SpA / 12 SpD / 10 Spe
+- Confusion
+- Poison Powder
+- Supersonic
+- Stun Spore
+
+Winged (Butterfree) @ SilverPowder
+Level: 11
+IVs: 10 HP / 0 Atk / 10 Def / 14 SpA / 12 SpD / 14 Spe
+- Confusion
+- Sleep Powder
+- Gust
+- Stun Spore
+
+Shroomy (Parasect) @ Sitrus Berry
+Level: 11
+IVs: 16 HP / 14 Atk / 14 Def / 0 SpA / 14 SpD / 6 Spe
+- Spore
+- Leech Life
+- Stun Spore
+- Scratch
+
+Blades (Scyther) @ Oran Berry
+Level: 11
+IVs: 14 HP / 16 Atk / 12 Def / 0 SpA / 10 SpD / 14 Spe
+- Fury Cutter
+- Quick Attack
+- Double-Edge
+- Cut
+
+Stingy (Ariados) @ Black Sludge
+Level: 12
+Shiny: Yes
+IVs: 18 HP / 18 Atk / 14 Def / 0 SpA / 14 SpD / 16 Spe
+EVs: 0 HP / 40 Atk / 0 Def / 40 SpA / 0 SpD / 40 Spe
+- Poison Sting
+- Night Shade
+- Focus Energy
+- Twineedle
+
+=== TRAINER_BUG_CATCHER_CHARLIE ===
+Name: CHARLIE
+Class: Bug Catcher
+Pic: Bug Catcher
+Gender: Male
+Music: Male
+Double Battle: No
+Items: Super Potion / Antidote
+AI: Try To Faint / Check Viability
+
+Silky (Butterfree) @ SilverPowder
+Level: 12
+IVs: 14 HP / 0 Atk / 12 Def / 16 SpA / 14 SpD / 14 Spe
+- Sleep Powder
+- Confusion
+- Stun Spore
+- Gust
+
+Webby (Ariados) @ Pecha Berry
+Level: 12
+IVs: 14 HP / 16 Atk / 12 Def / 0 SpA / 12 SpD / 14 Spe
+- Poison Sting
+- Night Shade
+- String Shot
+- Focus Energy
+
+Shroomer (Parasect) @ Sitrus Berry
+Level: 12
+IVs: 16 HP / 14 Atk / 14 Def / 0 SpA / 14 SpD / 8 Spe
+- Spore
+- Leech Life
+- Stun Spore
+- Scratch
+
+Stingwing (Scyther) @ Oran Berry
+Level: 12
+IVs: 14 HP / 18 Atk / 12 Def / 0 SpA / 12 SpD / 16 Spe
+- Fury Cutter
+- Quick Attack
+- Double-Edge
+- Cut
+
+Volt (Volbeat) @ Pecha Berry
+Level: 12
+IVs: 12 HP / 12 Atk / 10 Def / 12 SpA / 12 SpD / 12 Spe
+- Signal Beam
+- Supersonic
+- Confuse Ray
+- Helping Hand
+
+Buzzkill (Beedrill) @ Black Sludge
+Level: 13
+Shiny: Yes
+IVs: 20 HP / 20 Atk / 12 Def / 0 SpA / 14 SpD / 18 Spe
+EVs: 0 HP / 40 Atk / 0 Def / 0 SpA / 0 SpD / 40 Spe
+- Twineedle
+- Fury Attack
+- Focus Energy
+- Cut
 
 === TRAINER_BUG_CATCHER_SAMMY ===
 Name: SAMMY
@@ -1428,11 +1643,64 @@ Pic: Bug Catcher
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+Items: Hyper Potion / Full Heal
+AI: Try To Faint / Check Viability
 
-Weedle
-Level: 9
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Hornet (Heracross) @ Oran Berry
+Ball: Net Ball
+Level: 13
+IVs: 18 HP / 20 Atk / 14 Def / 0 SpA / 14 SpD / 16 Spe
+- Megahorn
+- Counter
+- Focus Energy
+- Rock Smash
+
+Shroomlord (Parasect) @ Sitrus Berry
+Ball: Net Ball
+Level: 13
+IVs: 18 HP / 16 Atk / 14 Def / 0 SpA / 16 SpD / 8 Spe
+- Spore
+- Leech Life
+- Stun Spore
+- Slash
+
+Bladestorm (Scyther) @ Oran Berry
+Ball: Net Ball
+Level: 13
+IVs: 16 HP / 20 Atk / 14 Def / 0 SpA / 14 SpD / 18 Spe
+- Fury Cutter
+- Quick Attack
+- Double-Edge
+- Cut
+
+Lumina (Volbeat) @ Pecha Berry
+Ball: Net Ball
+Level: 13
+IVs: 14 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 14 Spe
+- Signal Beam
+- Supersonic
+- Confuse Ray
+- Helping Hand
+
+Spiker (Pinsir) @ Oran Berry
+Ball: Net Ball
+Level: 13
+IVs: 18 HP / 20 Atk / 16 Def / 0 SpA / 14 SpD / 12 Spe
+- Vice Grip
+- Seismic Toss
+- Focus Energy
+- Cut
+
+Nightwing (Venomoth) @ Black Sludge
+Ball: Net Ball
+Level: 14
+Shiny: Yes
+IVs: 20 HP / 14 Atk / 12 Def / 18 SpA / 16 SpD / 20 Spe
+EVs: 0 HP / 40 Atk / 0 Def / 40 SpA / 0 SpD / 40 Spe
+- Psychic
+- Sleep Powder
+- Venoshock
+- Quiver Dance
 
 === TRAINER_BUG_CATCHER_COLTON ===
 Name: COLTON
@@ -5814,6 +6082,7 @@ Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Tackle
 - Tail Whip
+- Water Gun
 
 === TRAINER_RIVAL_OAKS_LAB_BULBASAUR ===
 Name: TERRY
@@ -5829,6 +6098,7 @@ Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Tackle
 - Growl
+- Vine Whip
 
 === TRAINER_RIVAL_OAKS_LAB_CHARMANDER ===
 Name: TERRY
@@ -5844,9 +6114,10 @@ Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Scratch
 - Growl
+- Ember
 
 === TRAINER_RIVAL_ROUTE22_EARLY_SQUIRTLE ===
-Name: TERRY
+Name: GARY
 Class: Rival Early
 Pic: Rival Early
 Gender: Male
@@ -5854,17 +6125,54 @@ Music: Male
 Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
 
-Pidgey
-Level: 9
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Fluffy (Vulpix) @ Oran Berry
+Level: 8
+IVs: 6 HP / 6 Atk / 6 Def / 8 SpA / 6 SpD / 8 Spe
+- Ember
+- Tail Whip
+- Quick Attack
+- Growl
+
+Hornet (Nidoran M) @ Oran Berry
+Level: 8
+IVs: 6 HP / 8 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+- Tackle
+- Poison Sting
+- Leer
+- Double Kick
+
+Punchy (Mankey) @ Oran Berry
+Level: 8
+IVs: 8 HP / 8 Atk / 6 Def / 6 SpA / 6 SpD / 8 Spe
+- Scratch
+- Low Kick
+- Leer
+- Focus Energy
+
+Leafy (Oddish) @ Oran Berry
+Level: 8
+IVs: 6 HP / 6 Atk / 6 Def / 8 SpA / 8 SpD / 6 Spe
+- Absorb
+- Sleep Powder
+- Acid
+- Growth
+
+Feathers (Pidgey) @ Oran Berry
+Level: 8
+IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 8 Spe
 - Tackle
 - Sand Attack
+- Gust
+- Quick Attack
 
-Squirtle
+Bubbels (Squirtle) @ Oran Berry
 Level: 9
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+IVs: 8 HP / 8 Atk / 8 Def / 8 SpA / 8 SpD / 8 Spe
+Shiny: Yes
 - Tackle
 - Tail Whip
+- Water Gun
+- Withdraw
 
 === TRAINER_RIVAL_ROUTE22_EARLY_BULBASAUR ===
 Name: TERRY
@@ -5875,17 +6183,54 @@ Music: Male
 Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
 
-Pidgey
-Level: 9
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Fluffy (Vulpix) @ Oran Berry
+Level: 8
+IVs: 6 HP / 6 Atk / 6 Def / 8 SpA / 6 SpD / 8 Spe
+- Ember
+- Tail Whip
+- Quick Attack
+- Growl
+
+Splash (Poliwag) @ Oran Berry
+Level: 8
+IVs: 6 HP / 6 Atk / 6 Def / 8 SpA / 8 SpD / 6 Spe
+- Water Gun
+- Tail Whip
+- Disable
+- Scratch
+
+Punchy (Mankey) @ Oran Berry
+Level: 8
+IVs: 8 HP / 8 Atk / 6 Def / 6 SpA / 6 SpD / 8 Spe
+- Scratch
+- Low Kick
+- Leer
+- Focus Energy
+
+Hornet (Nidoran M) @ Oran Berry
+Level: 8
+IVs: 6 HP / 8 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+- Tackle
+- Poison Sting
+- Leer
+- Double Kick
+
+Feathers (Pidgey) @ Oran Berry
+Level: 8
+IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 8 Spe
 - Tackle
 - Sand Attack
+- Gust
+- Quick Attack
 
-Bulbasaur
+Sprout (Bulbasaur) @ Oran Berry
 Level: 9
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+IVs: 8 HP / 8 Atk / 8 Def / 8 SpA / 8 SpD / 8 Spe
+Shiny: Yes
 - Tackle
-- Growl
+- Growth
+- Vine Whip
+- Leech Seed
 
 === TRAINER_RIVAL_ROUTE22_EARLY_CHARMANDER ===
 Name: TERRY
@@ -5896,17 +6241,54 @@ Music: Male
 Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
 
-Pidgey
-Level: 9
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Hornet (Nidoran M) @ Oran Berry
+Level: 8
+IVs: 6 HP / 8 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+- Tackle
+- Poison Sting
+- Leer
+- Double Kick
+
+Splash (Poliwag) @ Oran Berry
+Level: 8
+IVs: 6 HP / 6 Atk / 6 Def / 8 SpA / 8 SpD / 6 Spe
+- Water Gun
+- Tail Whip
+- Disable
+- Scratch
+
+Punchy (Mankey) @ Oran Berry
+Level: 8
+IVs: 8 HP / 8 Atk / 6 Def / 6 SpA / 6 SpD / 8 Spe
+- Scratch
+- Low Kick
+- Leer
+- Focus Energy
+
+Leafy (Oddish) @ Oran Berry
+Level: 8
+IVs: 6 HP / 6 Atk / 6 Def / 8 SpA / 8 SpD / 6 Spe
+- Absorb
+- Sleep Powder
+- Acid
+- Growth
+
+Feathers (Pidgey) @ Oran Berry
+Level: 8
+IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 8 Spe
 - Tackle
 - Sand Attack
+- Gust
+- Quick Attack
 
-Charmander
+Flarey (Charmander) @ Oran Berry
 Level: 9
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+IVs: 8 HP / 8 Atk / 8 Def / 8 SpA / 8 SpD / 8 Spe
+Shiny: Yes
 - Scratch
-- Growl
+- Growth
+- Ember
+- Smokescreen
 
 === TRAINER_RIVAL_CERULEAN_SQUIRTLE ===
 Name: TERRY
@@ -8413,18 +8795,56 @@ Pic: Leader Brock
 Gender: Male
 Music: Male
 Double Battle: No
+Items: Hyper Potion / Full Heal / Sitrus Berry
 AI: Check Bad Move / Try To Faint / Check Viability
 
-Geodude
-Level: 12
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Tackle
-- Defense Curl
-
-Onix
+Rocky (Geodude) @ Oran Berry
 Level: 14
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 16 HP / 14 Atk / 16 Def / 0 SpA / 12 SpD / 10 Spe
 - Tackle
+- Rock Throw
+- Defense Curl
+- Sandstorm
+
+Crusty (Kabuto) @ Sitrus Berry
+Level: 14
+IVs: 16 HP / 14 Atk / 14 Def / 0 SpA / 14 SpD / 10 Spe
+- Rock Tomb
+- Scratch
+- Protect
+- Harden
+
+Pebble (Rhyhorn) @ Oran Berry
+Level: 14
+IVs: 18 HP / 20 Atk / 16 Def / 0 SpA / 12 SpD / 10 Spe
+- Horn Drill
+- Rock Throw
+- Stomp
+- Take Down
+
+Larvy (Larvitar) @ Oran Berry
+Level: 14
+IVs: 16 HP / 18 Atk / 14 Def / 0 SpA / 12 SpD / 10 Spe
+- Bite
+- Rock Throw
+- Leer
+- Sandstorm
+
+Shard (Kabuto) @ Sitrus Berry
+Level: 14
+IVs: 16 HP / 14 Atk / 14 Def / 0 SpA / 14 SpD / 10 Spe
+- Scratch
+- Rock Tomb
+- Protect
+- Harden
+
+Granite (Onix) @ Leftovers
+Level: 15
+Shiny: Yes
+IVs: 22 HP / 18 Atk / 18 Def / 0 SpA / 16 SpD / 10 Spe
+EVs: 50 HP / 30 Atk / 20 Def / 0 SpA / 20 SpD / 20 Spe
+- Sandstorm
+- Rock Throw
 - Bind
 - Rock Tomb
 
@@ -10865,44 +11285,6 @@ AI: Check Bad Move
 
 Ekans
 Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
-=== TRAINER_BUG_CATCHER_ANTHONY ===
-Name: ANTHONY
-Class: Bug Catcher
-Pic: Bug Catcher
-Gender: Male
-Music: Male
-Double Battle: No
-AI: Check Bad Move
-
-Caterpie
-Level: 7
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
-Caterpie
-Level: 8
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
-=== TRAINER_BUG_CATCHER_CHARLIE ===
-Name: CHARLIE
-Class: Bug Catcher
-Pic: Bug Catcher
-Gender: Male
-Music: Male
-Double Battle: No
-AI: Check Bad Move
-
-Metapod
-Level: 7
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
-Caterpie
-Level: 7
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
-Metapod
-Level: 7
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TWINS_ELI_ANNE_2 ===

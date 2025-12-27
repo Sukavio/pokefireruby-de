@@ -4534,11 +4534,11 @@ static void Cmd_getexp(void)
                 gBattleStruct->expGettersOrder[orderId] = PARTY_SIZE;
 
             calculatedExp = gSpeciesInfo[gBattleMons[gBattlerFainted].species].expYield * gBattleMons[gBattlerFainted].level;
-            if (B_SCALED_EXP >= GEN_5 && B_SCALED_EXP != GEN_6)
+/*            if (B_SCALED_EXP >= GEN_5 && B_SCALED_EXP != GEN_6)
                 calculatedExp /= 5;
             else
                 calculatedExp /= 7;
-
+*/
             if (B_TRAINER_EXP_MULTIPLIER <= GEN_7 && gBattleTypeFlags & BATTLE_TYPE_TRAINER)
                 calculatedExp = (calculatedExp * 150) / 100;
 
