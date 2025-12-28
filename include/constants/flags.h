@@ -49,10 +49,10 @@
 #define FLAG_0x023               0x023
 #define FLAG_0x024               0x024
 #define FLAG_0x025               0x025
-#define FLAG_0x026               0x026
-#define FLAG_0x027               0x027
 
 // Hide/show flags
+#define FLAG_HIDE_PIKACHU_BALL                             0x026
+#define FLAG_HIDE_EEVEE_STARTER_BALL                       0x027
 #define FLAG_HIDE_BULBASAUR_BALL                           0x028
 #define FLAG_HIDE_SQUIRTLE_BALL                            0x029
 #define FLAG_HIDE_CHARMANDER_BALL                          0x02A
