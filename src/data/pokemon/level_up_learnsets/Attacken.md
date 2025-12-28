@@ -5,7 +5,6 @@
 ## Buff 1 Stufe
 | Wert        | Name        | Englisch |
 |-------------|-------------|----------|
-| HP          | x | |
 | Angriff     | Meditation, Schärfer  | Meditate, Sharpen |
 | Verteidigung | Einigler, Härtner, Panzerschutz | Defense Curl, Harden, Withdraw |
 | Genauigkeit | Doppelteam | Double Team |

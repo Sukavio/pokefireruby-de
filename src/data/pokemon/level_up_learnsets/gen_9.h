@@ -5489,10 +5489,11 @@ static const struct LevelUpMove sAmbipomLevelUpLearnset[] = {
 #if P_FAMILY_SUNKERN
 static const struct LevelUpMove sSunkernLevelUpLearnset[] = {
     LEVEL_UP_MOVE( 1, MOVE_TACKLE),
-    LEVEL_UP_MOVE( 1, MOVE_GROWTH),
+    LEVEL_UP_MOVE( 1, MOVE_SUNNY_DAY),
     LEVEL_UP_MOVE( 7, MOVE_ABSORB),
+    LEVEL_UP_MOVE( 7, MOVE_EMBER),
     LEVEL_UP_MOVE(10, MOVE_MEGA_DRAIN),
-    LEVEL_UP_MOVE(16, MOVE_RAZOR_LEAF),
+    LEVEL_UP_MOVE(16, MOVE_MORNING_SUN),
     LEVEL_UP_MOVE(19, MOVE_WORRY_SEED),
     LEVEL_UP_MOVE(22, MOVE_GIGA_DRAIN),
     LEVEL_UP_MOVE(25, MOVE_ENDEAVOR),
@@ -5505,9 +5506,9 @@ static const struct LevelUpMove sSunkernLevelUpLearnset[] = {
 };
 
 static const struct LevelUpMove sSunfloraLevelUpLearnset[] = {
-    LEVEL_UP_MOVE( 1, MOVE_POUND),
+    LEVEL_UP_MOVE( 1, MOVE_EMBER),
     LEVEL_UP_MOVE( 1, MOVE_TACKLE),
-    LEVEL_UP_MOVE( 1, MOVE_GROWTH),
+    LEVEL_UP_MOVE( 1, MOVE_SUNNY_DAY),
     LEVEL_UP_MOVE( 4, MOVE_INGRAIN),
     LEVEL_UP_MOVE( 7, MOVE_ABSORB),
     LEVEL_UP_MOVE(10, MOVE_MEGA_DRAIN),
