@@ -1562,7 +1562,7 @@ IVs: 20 HP / 20 Atk / 20 Def / 20 SpA / 20 SpD / 20 Spe
 EVs: 0 HP / 40 Atk / 0 Def / 0 SpA / 0 SpD / 40 Spe
 - U Turn
 - Poison Sting
-- Pin Missle
+- Pin Missile
 - Toxic Spikes
 
 === TRAINER_BUG_CATCHER_SAMMY ===
@@ -1590,7 +1590,7 @@ IVs: 18 HP / 16 Atk / 14 Def / 0 SpA / 16 SpD / 8 Spe
 Ability: Sniper
 - U Turn
 - Poison Sting
-- Pin Missle
+- Pin Missile
 - Toxic Spikes
 
 Bladestorm (Scyther)
