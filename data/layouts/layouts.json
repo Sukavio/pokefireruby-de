@@ -1108,7 +1108,7 @@
     {
       "id": "LAYOUT_ROUTE22",
       "name": "Route22_Layout",
-      "width": 48,
+      "width": 90,
       "height": 24,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_ViridianCity",
@@ -1120,7 +1120,7 @@
     {
       "id": "LAYOUT_ROUTE23",
       "name": "Route23_Layout",
-      "width": 24,
+      "width": 28,
       "height": 160,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_IndigoPlateau",
