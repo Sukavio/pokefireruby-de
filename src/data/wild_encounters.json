@@ -1096,7 +1096,7 @@
               {
                 "min_level": 7,
                 "max_level": 9,
-                "species": "SPECIES_PIKACHU"
+                "species": "SPECIES_AIPOM"
               },
               {
                 "min_level": 7,
@@ -1106,7 +1106,7 @@
               {
                 "min_level": 7,
                 "max_level": 9,
-                "species": "SPECIES_AIPOM"
+                "species": "SPECIES_PICHU"
               }
             ]
           },
@@ -16749,7 +16749,7 @@
               {
                 "min_level": 5,
                 "max_level": 5,
-                "species": "SPECIES_RATTATA"
+                "species": "SPECIES_EEVEE"
               }
             ]
           }

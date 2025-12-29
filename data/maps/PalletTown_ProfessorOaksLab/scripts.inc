@@ -1146,13 +1146,13 @@ PalletTown_ProfessorOaksLab_EventScript_ChoseStarter::
 	waitfanfare
 	msgbox Text_GiveNicknameToThisMon, MSGBOX_YESNO
 	goto_if_eq VAR_RESULT, YES, EventScript_GiveNicknameToStarter
-	goto_if_eq VAR_RESULT, NO, PalletTown_ProfessorOaksLab_EventScript_RivalPicksStarter
+	goto_if_eq VAR_RESULT, NO, PalletTown_ProfessorOaksLab_EventScript_ReadyEndSignLadyScene
 	end
 
 EventScript_GiveNicknameToStarter::
 	setvar VAR_0x8004, 0
 	call EventScript_ChangePokemonNickname
-	goto PalletTown_ProfessorOaksLab_EventScript_RivalPicksStarter
+	goto PalletTown_ProfessorOaksLab_EventScript_ReadyEndSignLadyScene
 	end
 
 PalletTown_ProfessorOaksLab_EventScript_ReadyEndSignLadyScene::
@@ -1190,7 +1190,7 @@ PalletTown_ProfessorOaksLab_EventScript_PikachuBall::
 	lock
 	faceplayer
 	setvar PLAYER_STARTER_NUM, 3
-	setvar PLAYER_STARTER_SPECIES, SPECIES_PIKACHU
+	setvar PLAYER_STARTER_SPECIES, SPECIES_PICHU
 	setvar RIVAL_STARTER_SPECIES, SPECIES_EEVEE
 	setvar RIVAL_STARTER_ID, LOCALID_PIKACHU_BALL
 	goto_if_ge VAR_MAP_SCENE_PALLET_TOWN_PROFESSOR_OAKS_LAB, 3, PalletTown_ProfessorOaksLab_EventScript_LastPokeBall
@@ -1204,7 +1204,7 @@ PalletTown_ProfessorOaksLab_EventScript_EeveeBall::
 	faceplayer
 	setvar PLAYER_STARTER_NUM, 4
 	setvar PLAYER_STARTER_SPECIES, SPECIES_EEVEE
-	setvar RIVAL_STARTER_SPECIES, SPECIES_PIKACHU
+	setvar RIVAL_STARTER_SPECIES, SPECIES_PICHU
 	setvar RIVAL_STARTER_ID, LOCALID_EEVEE_BALL
 	goto_if_ge VAR_MAP_SCENE_PALLET_TOWN_PROFESSOR_OAKS_LAB, 3, PalletTown_ProfessorOaksLab_EventScript_LastPokeBall
 	goto_if_eq VAR_MAP_SCENE_PALLET_TOWN_PROFESSOR_OAKS_LAB, 2, PalletTown_ProfessorOaksLab_EventScript_ConfirmStarterChoice

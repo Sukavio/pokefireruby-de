@@ -118,6 +118,18 @@ PalletTown_ProfessorOaksLab_Text_OakChoosingBulbasaur::
     .string "So, {PLAYER}, you want to go with\n"
     .string "the GRASS POKéMON BULBASAUR?$"
 
+PalletTown_ProfessorOaksLab_Text_OakChoosingPikachu::
+    .string "Das Pikachu, soll es also sein.\n"
+    .string "Es ist sehr geladen!\p"
+    .string "Also, {PLAYER}, gehe mit Vorsicht\n"
+    .string "aber geh bitte, endlich raus!$"
+
+PalletTown_ProfessorOaksLab_Text_OakChoosingEevee::
+    .string "Du willst also dieses Evoli.\n"
+    .string "Es war immer sehr böse zu mir.\p"
+    .string "Also, {PLAYER}, nimm es mit und\n"
+    .string "bring es nie mehr zu mir zurück!$"
+
 PalletTown_ProfessorOaksLab_Text_OakThisMonIsEnergetic::
     .string "This POKéMON is really quite\n"
     .string "energetic!$"
