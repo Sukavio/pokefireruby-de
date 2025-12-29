@@ -9,7 +9,7 @@ ViridianCity_Text_GymClosedWonderWhoLeaderIs::
     .string "I wonder who the LEADER is?$"
 
 ViridianCity_Text_ViridiansGymLeaderReturned::
-    .string "VIRIDIAN GYM's LEADER returned!$"
+    .string "VERTANIA Arenaleiter ist zurück!$"
 
 ViridianCity_Text_WantToKnowAboutCaterpillarMons::
     .string "You want to know about the two\n"
@@ -100,26 +100,25 @@ ViridianCity_Text_TooBusyForTeachyTV::
     .string "be ill spent…$"
 
 ViridianCity_Text_CitySign::
-    .string "VIRIDIAN CITY \n"
-    .string "The Eternally Green Paradise$"
+    .string "VERTANIA CITY \n"
+    .string "Eine Stadt im schönen Grün$"
 
 ViridianCity_Text_CatchMonsForEasierBattles::
-    .string "TRAINER TIPS\p"
-    .string "Catch POKéMON and expand your\n"
-    .string "collection.\p"
-    .string "The more you have, the easier it\n"
-    .string "is to battle.$"
+    .string "TRAINER TIPPS\p"
+    .string "Fange POKéMON, um das beste\n"
+    .string "Team zu bilden.\p"
+    .string "Je mehr du hast, um so einfacher\n"
+    .string "wirst du dein Kampf gewinnen.$"
 
 ViridianCity_Text_MovesLimitedByPP::
-    .string "TRAINER TIPS\p"
-    .string "The battle moves of POKéMON are\n"
-    .string "limited by their POWER POINTS, PP.\p"
-    .string "To replenish PP, rest your tired\n"
-    .string "POKéMON at a POKéMON CENTER.$"
+    .string "TRAINER TIPPS\p"
+    .string "Dein ATTACKEN der POKéMON\n"
+    .string "sind sehr limitiert, auf die AP.\p"
+    .string "Um die AP wieder aufzufüllen, heilen\n"
+    .string "dein POKéMON im POKéMON CENTER.$"
 
 ViridianCity_Text_GymSign::
-    .string "VIRIDIAN CITY POKéMON GYM$"
+    .string "VERTANIA CITY POKéMON GYM$"
 
 ViridianCity_Text_GymDoorsAreLocked::
-    .string "VIRIDIAN GYM's doors are locked…$"
-
+    .string "VERTANIA GYM's Tür sind versperrt…?$"
