@@ -70,56 +70,58 @@ PalletTown_ProfessorOaksLab_Text_RivalTellSisNotToGiveYouMap::
 
 PalletTown_ProfessorOaksLab_Text_OakThreeMonsChooseOne::
     .string "OAK: {RIVAL}?\n"
-    .string "Let me think…\p"
-    .string "Oh, that's right, I told you to\n"
-    .string "come! Just wait!\p"
-    .string "Here, {PLAYER}.\p"
-    .string "There are three POKéMON here.\p"
+    .string "Lass mich nach denken…\p"
+    .string "Ach ja, habe euch ja gesagt ihr\n"
+    .string "bekommt noch was! Wartet!\p"
+    .string "Hier, {PLAYER}.\p"
+    .string "Diese Fünf POKéMON habe ich noch.\p"
     .string "Haha!\p"
-    .string "The POKéMON are held inside\n"
-    .string "these POKé BALLS.\p"
-    .string "When I was young, I was a serious\n"
-    .string "POKéMON TRAINER.\p"
-    .string "But now, in my old age, I have\n"
-    .string "only these three left.\p"
-    .string "You can have one.\n"
-    .string "Go on, choose!$"
+    .string "Die POKéMON sind natürlich nicht hier\n"
+    .string "sondern im den POKébällen.\p"
+    .string "Damals als ich noch jung war,\n"
+    .string "als POKéMON TRAINER.\p"
+    .string "Nun bin ich alt geworden, habe\n"
+    .string "nur noch diese Fünf übrig.\p"
+    .string "Du kannst dir einen aussuchen.\n"
+    .string "Los wähle eins aus, bitte!$"
 
 PalletTown_ProfessorOaksLab_Text_OakBePatientRival::
-    .string "OAK: Be patient, {RIVAL}.\n"
-    .string "You can have one, too!$"
+    .string "OAK:Nein, {RIVAL}.\n"
+    .string "Erst kommt, {PLAYER} dran!$"
 
 PalletTown_ProfessorOaksLab_Text_OakWhichOneWillYouChoose::
-    .string "OAK: Now, {PLAYER}.\p"
-    .string "Inside those three POKé BALLS are\n"
-    .string "POKéMON.\p"
-    .string "Which one will you choose for\n"
-    .string "yourself?$"
+    .string "OAK:Nun, {PLAYER}.\p"
+    .string "in diesen Fünf POKébällen sind\n"
+    .string "POKéMON versteckt, fragt nicht wie.\p"
+    .string "Wähle Weise was das richtige ist,\n"
+    .string "ich kann dir dabei nicht helfen$"
 
 PalletTown_ProfessorOaksLab_Text_OakHeyDontGoAwayYet::
-    .string "OAK: Hey!\n"
-    .string "Don't go away yet!$"
+    .string "OAK:Hey!\n"
+    .string "Wo willst du hin? Wähle endlich!?\p"
+    .string "Sonst vergesse ich es wieder!$"
+
 
 PalletTown_ProfessorOaksLab_Text_OakChoosingCharmander::
-    .string "Ah! CHARMANDER is your choice.\n"
-    .string "You should raise it patiently.\p"
-    .string "So, {PLAYER}, you're claiming the\n"
-    .string "FIRE POKéMON CHARMANDER?$"
+    .string "Ah! GLUMANDA ist deine Wahl.\n"
+    .string "Es ist eine feurige Angelegenheit.\p"
+    .string "Nun {PLAYER}, wehe das kommt,\n"
+    .string "wieder zu mir zurück!$"
 
 PalletTown_ProfessorOaksLab_Text_OakChoosingSquirtle::
-    .string "Hm! SQUIRTLE is your choice.\n"
-    .string "It's one worth raising.\p"
-    .string "So, {PLAYER}, you've decided on the\n"
-    .string "WATER POKéMON SQUIRTLE?$"
+    .string "Hm! SCHIGGY ist deine Wahl.\n"
+    .string "Es lässt gerne Blasen steigen.\p"
+    .string "Nun {PLAYER}, aber nimm es bitte,\n"
+    .string "sonst werde ich es nie los$"
 
 PalletTown_ProfessorOaksLab_Text_OakChoosingBulbasaur::
-    .string "I see! BULBASAUR is your choice.\n"
-    .string "It's very easy to raise.\p"
-    .string "So, {PLAYER}, you want to go with\n"
-    .string "the GRASS POKéMON BULBASAUR?$"
+    .string "Was? BISASAM ist deine Wahl?.\n"
+    .string "Eine Pflanze mit Beinen, naja gut.\p"
+    .string "Würde es bitte mit nehmen,\n"
+    .string "Es nimmt mir einfach Platz weg.$"
 
 PalletTown_ProfessorOaksLab_Text_OakChoosingPikachu::
-    .string "Das Pikachu, soll es also sein.\n"
+    .string "Das Pichu, soll es also sein.\n"
     .string "Es ist sehr geladen!\p"
     .string "Also, {PLAYER}, gehe mit Vorsicht\n"
     .string "aber geh bitte, endlich raus!$"

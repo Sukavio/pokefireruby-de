@@ -5,24 +5,25 @@ ViridianCity_Text_CanCarryMonsAnywhere::
     .string "use POKéMON anytime, anywhere.$"
 
 ViridianCity_Text_GymClosedWonderWhoLeaderIs::
-    .string "This POKéMON GYM is always closed.\p"
-    .string "I wonder who the LEADER is?$"
+    .string "Wird dieses POKéMON Arena jemals geöffnet?\p"
+    .string "Wer ist wohl der Leiter?\p"
+    .string "Ich bin mir sicher, dass er sehr stark ist.$"
 
 ViridianCity_Text_ViridiansGymLeaderReturned::
     .string "VERTANIA Arenaleiter ist zurück!$"
 
 ViridianCity_Text_WantToKnowAboutCaterpillarMons::
-    .string "You want to know about the two\n"
-    .string "kinds of caterpillar POKéMON?$"
+    .string "Kennst du den unterschiedt,\n"
+    .string "zwischen den Raupen POKéMON?$"
 
 ViridianCity_Text_OhOkayThen::
-    .string "Oh, okay then!$"
+    .string "Wie, nein!$"
 
 ViridianCity_Text_ExplainCaterpieWeedle::
-    .string "CATERPIE has no poison,\n"
-    .string "but WEEDLE does.\p"
-    .string "Watch that your POKéMON aren't\n"
-    .string "stabbed by WEEDLE's POISON STING.$"
+    .string "RAUPY hat kein Gift,\n"
+    .string "aber darfür Hornliu.\p"
+    .string "Achte auf dein POKéMON,\n"
+    .string "dass es nicht von Hornliu gestochen wird.$"
 
 ViridianCity_Text_GrandpaHasntHadCoffeeYet::
     .string "Oh, Grandpa!\n"
@@ -31,15 +32,15 @@ ViridianCity_Text_GrandpaHasntHadCoffeeYet::
     .string "He hasn't had his coffee yet.$"
 
 ViridianCity_Text_GoShoppingInPewterOccasionally::
-    .string "I go shopping in PEWTER CITY\n"
-    .string "occasionally.\p"
-    .string "I have to take the winding trail in\n"
-    .string "VIRIDIAN FOREST when I go.$"
+    .string "Ich shopper lieber in MAMORIA CITY\n"
+    .string "da gibst viel mehr Auswahl.\p"
+    .string "Nur muss ich wieder diesen,\n"
+    .string "durch den VERTANIA WALD gehen stöhn.$"
 
 ViridianCity_Text_ThisIsPrivateProperty::
-    .string "I absolutely forbid you from\n"
-    .string "going through here!\p"
-    .string "This is private property!$"
+    .string "Was willst du den hier\n"
+    .string "lass uns ihn Ruhe!\p"
+    .string "Das ist Privat Gelände!$"
 
 ViridianCity_Text_ShowYouHowToCatchMons::
     .string "Well, now, I've had my coffee, and\n"
@@ -122,3 +123,7 @@ ViridianCity_Text_GymSign::
 
 ViridianCity_Text_GymDoorsAreLocked::
     .string "VERTANIA GYM's Tür sind versperrt…?$"
+
+ViridianCity_Text_CityTaubsi::
+	.string "Kurukkoo!$"
+

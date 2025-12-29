@@ -53,6 +53,16 @@ ViridianCity_Movement_JumpDownLedge::
 	jump_2_down
 	step_end
 
+ViridianCity_EventScript_Taubsi::
+	lock
+	faceplayer
+	waitse
+	playmoncry SPECIES_PIDGEY, CRY_MODE_NORMAL
+	msgbox ViridianCity_Text_CityTaubsi, OBJ_EVENT_GFX_PIDGEY
+	waitmoncry
+	release
+	end
+	
 ViridianCity_EventScript_CitySign::
 	msgbox ViridianCity_Text_CitySign, MSGBOX_SIGN
 	end
