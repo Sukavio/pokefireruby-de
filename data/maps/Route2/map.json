@@ -89,7 +89,7 @@
     },
     {
       "type": "clone",
-      "graphics_id": "OBJ_EVENT_GFX_CUT_TREE",
+      "graphics_id": "OBJ_EVENT_GFX_RED_NORMAL",
       "x": 6,
       "y": 85,
       "target_local_id": "LOCALID_VIRIDIAN_BORDER_TREE",
